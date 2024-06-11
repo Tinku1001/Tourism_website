@@ -1,9 +1,9 @@
-import React from 'react'
+import React from 'react';
 
-import Footer from'./Components/Footer/Footer'
-import Home from'./Components/Home/Home'
-import Main from'./Components/Main/Main'
-import Navbar from'./Components/Navbar/Navbar'
+import Footer from './Components/Footer/Footer';
+import Home from './Components/Home/Home';
+import Main from './Components/Main/Main';
+import Navbar from './Components/Navbar/Navbar';
 
 import "./app.css";
 
@@ -20,4 +20,4 @@ const App = () => {
   )
 }
 
-export default App
+export default App;
