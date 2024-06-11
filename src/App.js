@@ -5,7 +5,7 @@ import Home from './Components/Home/Home';
 import Main from './Components/Main/Main';
 import Navbar from './Components/Navbar/Navbar';
 
-import "./app.css";
+import "./App.css";
 
 const App = () => {
   return (
